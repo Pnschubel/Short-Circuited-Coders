@@ -1,7 +1,7 @@
 Created by Short Circuited Coders Emily Qin & Payton Schubel
 (Isabella Knox was out sick)
 
-Website designed to inform the user about specific circumstances pertaining to them and Covid-19
+There is a lot of confusing misinformation about COVID-19 in the world. This website is designed to inform the user about specific circumstances pertaining to them and COVID-19 while alleviating this misinformation by providing a consolidated means of accessing credible information.
 
 home.html -- landing page
 healthy-person.html -- info for healthy person
